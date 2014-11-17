@@ -30,6 +30,10 @@
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+    
+    /**
+     *  wow 这里竟然有一个bug 不过我已经修复成功啦 哈哈
+     */
 }
 
 @end
